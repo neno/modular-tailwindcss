@@ -1,0 +1,3 @@
+.tw-h1 {
+  @apply tw-bg-blue-500 tw-text-white;
+}
